@@ -1,4 +1,4 @@
-# EVALUACI-N-INTEGRAL-FINAL
+# EVALUACION-INTEGRAL-FINAL
 
 # Sistema de Ventas Académico – Evaluación Integral Final
 
