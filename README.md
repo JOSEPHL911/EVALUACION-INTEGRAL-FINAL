@@ -1,7 +1,7 @@
 # EVALUACION-INTEGRAL-FINAL
 
 # Sistema de Ventas Académico – Evaluación Integral Final
-
+LINK DE VIDEO:https://youtu.be/JQ3LfmtPxUA
 ## Descripción del proyecto
 Este proyecto corresponde a la *Evaluación Integral Final del curso Programación Orientada a Objetos*.  
 La solución implementa un *sistema de ventas académico* en Java que permite gestionar clientes, productos y ventas, aplicando los principios de POO, colecciones y persistencia de datos en MySQL.
